@@ -7,6 +7,19 @@
 <img src="https://komarev.com/ghpvc/?username=pokie-heisenberg&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <div align="center">
+ 
+ ---
+ 
+## 🏆 GitHub Trophies
+
+<p align="left">
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pokie-heisenberg&theme=algolia&no-bg=true&margin-w=15&no-frame=true&column=7&rank=-C,-?&row=1" alt="pokie-heisenberg" />
+</p>
+
+</div>
+
+---
 
 ## 💻 Tech Stack & Skills 
  <p align="center">
@@ -34,7 +47,8 @@
 </div>
 ---
 <div align="center">
-  
+  ---
+ 
 ## 📈 Contribution Activity
 
 <p>
@@ -49,3 +63,4 @@
   
 </div>
 
+---
